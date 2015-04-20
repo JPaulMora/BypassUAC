@@ -1,3 +1,5 @@
+REM Copyright (C) 2014  Juan Pablo Mora johmora12@engineer.com
+REM This program is under the terms of the GNU General Public License version 2 
 REM *** UAC Bypass, should work on any computer with admin rights. ***
 DELAY 2000
 WINDOWS r
