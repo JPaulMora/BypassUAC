@@ -11,6 +11,3 @@ Customize delay on line 8 according to your needs.
  - Increased delay value will increase chances of a successful payload.
 
 The best method is to know your target, make as many tests as possible so you can get an average.
-
-Copyright (C) 2014  Juan Pablo Mora johmora12@engineer.com
-This program is under the terms of the GNU General Public License version 2 
