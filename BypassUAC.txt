@@ -8,6 +8,7 @@ STRING powershell Start-Process cmd.exe -Verb runAs
 ENTER
 REM *** This delay lets slow/old computers execute the PowerShell properly ***
 DELAY 5000
+REM On Windows 8+ UAC window is not always autoselected, you may need to click it to execute payload smoothly.
 ALT y
 DELAY 500
 BACKSPACE
