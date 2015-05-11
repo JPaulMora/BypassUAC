@@ -4,7 +4,7 @@ BypassUAC
 Fully functional UAC bypass for Hak5 USB rubber duck, fixes an unwanted "y" at the beginning of payload when UAC window doesnt show.
 
 
-Customize delay on line 8 according to your needs.
+Customize delay on [line 10](https://github.com/JPaulMora/BypassUAC/blob/master/BypassUAC.txt#L10) according to your needs.
  
  - Decerased delay value will speed payload execution, with small risk of not executing properly.
 
